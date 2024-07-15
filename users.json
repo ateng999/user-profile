@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "name": "David Isaac Dela Cruz",
+    "email": "davidapader@example.com",
+    "address": {
+      "street": "524 Main St",
+      "city": "Antukinism"
+    },
+    "jobPosition": "Software Gingineer",
+    "profilePicture": "https://avatar.iran.liara.run/public/15"
+  },
+  {
+    "id": 2,
+    "name": "Exequiel Delfin",
+    "email": "exequinism@example.com",
+    "address": {
+      "street": "276 Elm St",
+      "city": "Kluplism"
+    },
+    "jobPosition": "Project Mannyger",
+    "profilePicture": "https://avatar.iran.liara.run/public/37"
+  },
+  {
+    "id": 3,
+    "name": "Alexandra Marasigan",
+    "email": "alxndraDgrate@example.com",
+    "address": {
+      "street": "685 Oak St",
+      "city": "Twinkle"
+    },
+    "jobPosition": "Queen Designer",
+    "profilePicture": "https://avatar.iran.liara.run/public/70"
+  },
+  {
+    "id": 4,
+    "name": "Rachel Robles",
+    "email": "ateng@example.com",
+    "address": {
+      "street": "159 Maple St",
+      "city": "Kasipagan"
+    },
+    "jobPosition": "Main Character",
+    "profilePicture": "https://avatar.iran.liara.run/public/78"
+  },
+  {
+    "id": 5,
+    "name": "James Albert Salva",
+    "email": "jambertus@example.com",
+    "address": {
+      "street": "15496 Birch St",
+      "city": "Salvation"
+    },
+    "jobPosition": "Backend Developerism",
+    "profilePicture": "https://avatar.iran.liara.run/public/31"
+  },
+  {
+    "id": 6,
+    "name": "Juvir Monteagudo",
+    "email": "johnyvir@example.com",
+    "address": {
+      "street": "303 Cedar St",
+      "city": "Bagyowyow"
+    },
+    "jobPosition": "Data Scientism",
+    "profilePicture": "https://avatar.iran.liara.run/public/30"
+  },
+  {
+    "id": 7,
+    "name": "Patrick Batungbacal",
+    "email": "patthestar@example.com",
+    "address": {
+      "street": "500 Pine St",
+      "city": "Bikini Bottom"
+    },
+    "jobPosition": "Reaction Developer",
+    "profilePicture": "https://avatar.iran.liara.run/public/34"
+  },
+  {
+    "id": 8,
+    "name": "Jessa abulencia",
+    "email": "eeemergency@example.com",
+    "address": {
+      "street": "568 Walnut St",
+      "city": "Hospitalidad"
+    },
+    "jobPosition": "Product Manager",
+    "profilePicture": "https://avatar.iran.liara.run/public/99"
+  },
+  {
+    "id": 9,
+    "name": "Crisler Vallo",
+    "email": "dbiliondreams@example.com",
+    "address": {
+      "street": "568 Willow St",
+      "city": "Great Filipino Vallo"
+    },
+    "jobPosition": "Business Analyst",
+    "profilePicture": "https://avatar.iran.liara.run/public/50"
+  },
+  {
+    "id": 10,
+    "name": "Lorenzo Cruz",
+    "email": "sanruiz@example.com",
+    "address": {
+      "street": "276 Cypress St",
+      "city": "Binondo"
+    },
+    "jobPosition": "Quality insurance",
+    "profilePicture": "https://avatar.iran.liara.run/public/33"
+  },
+  {
+    "id": 11,
+    "name": "Ian alde",
+    "email": "ianism@example.com",
+    "address": {
+      "street": "486 Redwood St",
+      "city": "Salon"
+    },
+    "jobPosition": "Scrumer Master",
+    "profilePicture": "https://avatar.iran.liara.run/public/48"
+  },
+  {
+    "id": 12,
+    "name": "Ashley felix",
+    "email": "elsaLetitgo@example.com",
+    "address": {
+      "street": "86+9 Aspen St",
+      "city": "Asheret"
+    },
+    "jobPosition": "Wife Manager",
+    "profilePicture": "https://avatar.iran.liara.run/public/73"
+  },
+  {
+    "id": 13,
+    "name": "Maris Racal",
+    "email": "hulingelbimby@example.com",
+    "address": {
+      "street": "1010 Spruce St",
+      "city": "Ermita"
+    },
+    "jobPosition": "Dishwasher",
+    "profilePicture": "https://avatar.iran.liara.run/public/67"
+  },
+  {
+    "id": 14,
+    "name": "Alice Guo",
+    "email": "alicegogogo@example.com",
+    "address": {
+      "street": "1111 Sycamore St",
+      "city": "Bambam"
+    },
+    "jobPosition": "Identity Specialist",
+    "profilePicture": "https://avatar.iran.liara.run/public/53"
+  },
+  {
+    "id": 15,
+    "name": "Mikey Mouse",
+    "email": "boomtarat@example.com",
+    "address": {
+      "street": "1212 Cherry St",
+      "city": "Hole"
+    },
+    "jobPosition": "Financial Analyst",
+    "profilePicture": "https://avatar.iran.liara.run/public/3"
+  },
+  {
+    "id": 16,
+    "name": "Nancy Benay",
+    "email": "nancyalant@example.com",
+    "address": {
+      "street": "1313 Oakin St",
+      "city": "Makati"
+    },
+    "jobPosition": "Map Writer",
+    "profilePicture": "https://avatar.iran.liara.run/public/3"
+  },
+  {
+    "id": 17,
+    "name": "Rigor Dimaguiba",
+    "email": "tangoal@example.com",
+    "address": {
+      "street": "1414 Elm St",
+      "city": "Quiapo"
+    },
+    "jobPosition": "Graphic Designer",
+    "profilePicture": "https://avatar.iran.liara.run/public/3"
+  },
+  {
+    "id": 18,
+    "name": "Lena Cortez",
+    "email": "righoourr@example.com",
+    "address": {
+      "street": "1515 Maple St",
+      "city": "Liempo Republic"
+    },
+    "jobPosition": "Social Media Manager",
+    "profilePicture": "https://avatar.iran.liara.run/public/91"
+  },
+  {
+    "id": 19,
+    "name": "Marites Dimaguiba",
+    "email": "crayolamader@example.com",
+    "address": {
+      "street": "1616 Birch St",
+      "city": "Quiapo"
+    },
+    "jobPosition": "SEO Specialist",
+    "profilePicture": "https://avatar.iran.liara.run/public/55"
+  },
+  {
+    "id": 20,
+    "name": "Small Laude",
+    "email": "ofcourse@example.com",
+    "address": {
+      "street": "1717 Cedar St",
+      "city": "Manila"
+    },
+    "jobPosition": "PR Manager",
+    "profilePicture": "https://avatar.iran.liara.run/public/100"
+  },
+  {
+    "id": 21,
+    "name": "Sam Smith",
+    "email": "staywithme@example.com",
+    "address": {
+      "street": "1818 Pine St",
+      "city": "Parking lot"
+    },
+    "jobPosition": "Database Administrator",
+    "profilePicture": "https://avatar.iran.liara.run/public/42"
+  },
+  {
+    "id": 22,
+    "name": "Tina Pay",
+    "email": "monay@example.com",
+    "address": {
+      "street": "1919 Walnut St",
+      "city": "Bakery"
+    },
+    "jobPosition": "Cybersecurity Analyst",
+    "profilePicture": "https://avatar.iran.liara.run/public/90"
+  },
+  {
+    "id": 23,
+    "name": "Taylor Swift",
+    "email": "shakeitoff@example.com",
+    "address": {
+      "street": "2020 Cornelia St",
+      "city": "New York"
+    },
+    "jobPosition": "Network Engineer",
+    "profilePicture": "https://avatar.iran.liara.run/public/66"
+  },
+  {
+    "id": 24,
+    "name": "Johny Saint",
+    "email": "jonyyespapa@example.com",
+    "address": {
+      "street": "2121 Cypress St",
+      "city": "Cocomelon"
+    },
+    "jobPosition": "Software Tester",
+    "profilePicture": "https://avatar.iran.liara.run/public/14"
+  },
+  {
+    "id": 25,
+    "name": "Jolly Bee",
+    "email": "langhapsarap@example.com",
+    "address": {
+      "street": "2222 Redwood St",
+      "city": "Bayan"
+    },
+    "jobPosition": "AI Specialist",
+    "profilePicture": "https://avatar.iran.liara.run/public/88"
+  }
+]

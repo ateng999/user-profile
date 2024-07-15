@@ -1,0 +1,129 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+	font-variation-settings:
+		"wdth" 100;
+	background-color: #45496a;
+}
+
+.wrap {
+	margin-top: 50px;
+    display: flex;
+	justify-content: center;
+}
+
+.container {
+    max-width: 800px;
+}
+
+h1 {
+	text-align: center;
+	color: #fff;
+}
+
+.search-container {
+    position: relative;
+}
+
+#search {
+    width: 100%;
+    padding: 10px 10px 10px 30px;
+    margin-bottom: 80px;
+    font-size: 16px;
+	border-radius: 50px;
+	border: 1px solid #c7c9e0;
+	color: #45496a;
+    position: relative;
+}
+
+.search-ico {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    transform: translateY(-50%);
+    color: #555;
+    pointer-events: none;
+}
+
+
+.user-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.user-card {
+    background-color: #fff;
+    border-radius: 8px;
+	padding: 70px 15px 15px;
+    text-align: center;
+	position: relative;
+	margin-bottom: 50px;
+	font-weight: 600;
+}
+
+.user-card img {
+	position: absolute;
+	top: -30px;
+	right: 50%;
+	transform: translateX(50%);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.user-card h2 {
+    font-size: 18px;
+    margin: 10px 0;
+	color: #45496a;
+}
+
+.job-pos {
+	background-color: #e5857b;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 3px 10px;
+    color: #fff;
+	margin: 10px 0;
+}
+
+.email {
+	margin: 10px 0;
+	word-break: break-all;
+}
+.email .fa-envelope,
+.adress .fa-address-card {
+	margin-right:5px;
+}
+
+.user-card p {
+    font-size: 14px;
+}
+
+@media screen and (max-width:767px) {
+	.wrap {
+		display: block;
+		padding: 0 10px;
+	}
+	.user-list {
+		grid-template-columns: 1fr;
+	}
+
+	#search {
+		width: 100%;
+		padding-left: 13px;
+		font-size: 14px;
+	}
+
+	.search-ico {
+		top: 19px;
+		right: 13px;
+		font-size: 14px;
+	}
+}
